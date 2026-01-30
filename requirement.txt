@@ -1,0 +1,7 @@
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook (Optional)
+- Any Code Editor (VS Code / PyCharm Recommended)
+
+No external Python libraries are required for this project.
